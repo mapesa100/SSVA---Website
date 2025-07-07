@@ -492,7 +492,7 @@ header {
   font-size: 2rem;
 }
 .navigation img {
-  max-height: 4.5rem;
+  max-height: 4rem;
 }
 header {
   font-size: 2rem;
@@ -517,7 +517,7 @@ header {
 }
 .goal-grid,
 .core-grid {
-  gap: 1.5rem;
+  gap: 1rem;
 }
 .strategy-item {
   padding: 1rem;
